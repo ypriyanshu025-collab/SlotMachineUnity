@@ -1,0 +1,3 @@
+This folder is where the WebGL build output (index.html, Build/, TemplateData/) goes.
+Generate it via File > Build Settings > WebGL > Build in the Unity Editor.
+See the root README.md "Building for WebGL" section for full steps.
