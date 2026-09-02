@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: a1b2c3d4e5f647890a1b2c3d4e5f6789
+timeCreated: 1500000000
+licenseType: Free
+NavMeshAreas:
+  areas:
+  - name: Walkable
+    cost: 1
+  - name: Not Walkable
+    cost: 1
+  - name: Jump
+    cost: 2
+  - name: Built-in 3
+    cost: 1
+  - name: Built-in 4
+    cost: 1
+  - name: Built-in 5
+    cost: 1
+  - name: Built-in 6
+    cost: 1
+  - name: Built-in 7
+    cost: 1
+  areaNames: []
+userData:
+assetBundleName:
+assetBundleVariant:
